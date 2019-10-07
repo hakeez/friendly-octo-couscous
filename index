@@ -1,0 +1,19 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Javascript</title>
+</head>
+
+<body>
+<script language="javascript">
+x = 20;
+alert("The answer is " + x);
+//document.write ("The answer is " + x + "!");
+
+</script>
+<h1>My title is here</h1>
+<script language="javascript">
+document.write ("<h2>The answer is " + x + "!</h2>");
+</script>
+</body>
+</html>
